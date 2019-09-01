@@ -27,7 +27,6 @@ Available options:
 
 Once the user select one of the option then the desired action is performed and result is shown to the user on console.
 
-Note: I tried to install dependency for generating word cloud but it did not work out. So, I generate word cloud on linux system by using the Vocabulory file
-which was generated on my system.
+Note: I tried to install dependency for generating word cloud but it did not work out. So, I generate word cloud on linux system by using the Vocabulory file which was generated on my system.
 
 
